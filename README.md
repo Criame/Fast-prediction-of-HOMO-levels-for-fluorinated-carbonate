@@ -5,6 +5,8 @@
 Descriptors:
 
 
+
+
 ![image](https://github.com/Criame/Picture/blob/main/1.png)
 
 
@@ -15,3 +17,4 @@ In purpose of observing influence of fluorine atoms on each other, we divided th
 
 
 Finally, for the sake of brevity, α-F and α'-F were combined to form Alpha-F, β-F and β'-F were combined to form Beta-F, and γ-F and γ'-F were combined to form Gama-F. These descriptors with β-C apply to 4pred-HOMO.exe. 
+                      ![image](https://github.com/Criame/Picture/blob/main/2.png)
