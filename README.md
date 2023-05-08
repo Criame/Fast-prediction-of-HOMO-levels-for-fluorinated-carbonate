@@ -18,3 +18,6 @@ In purpose of observing influence of fluorine atoms on each other, we divided th
 
 Finally, for the sake of brevity, α-F and α'-F were combined to form Alpha-F, β-F and β'-F were combined to form Beta-F, and γ-F and γ'-F were combined to form Gama-F. These descriptors with β-C apply to 4pred-HOMO.exe. 
                       ![image](https://github.com/Criame/Picture/blob/main/2.png)
+
+
+For 4pred-HOMO.exe, you need to type in four descriptors like “0 0 0 2” and then it will give you a predicted HOMO level; for 7pred-HOMO.exe, you need to type in seven descriptors like “0 0 0 0 0 0 2”. For some complex fluorinated carbonates, we would recommend the 7pred-HOMO model to obtain more accurate predictions. Or you can make predictions on both models and take it an average.
